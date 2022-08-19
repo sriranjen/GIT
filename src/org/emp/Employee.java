@@ -34,4 +34,12 @@ public class Employee {
 		e.empId('s');
 		e.empId("string");
 	}
+	private void sri() {
+		System.out.println("sri");
+
+	}
+	private void ila() {
+		System.out.println("ila");
+
+	}
 }
