@@ -42,4 +42,13 @@ public class Employee {
 		System.out.println("ila");
 
 	}
+	private void hiii() {
+		// TODO Auto-generated method stub
+
+	}private void hii() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	
 }
